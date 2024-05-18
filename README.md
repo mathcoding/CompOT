@@ -1,0 +1,2 @@
+# CompOT
+Computational Optimal Transport
