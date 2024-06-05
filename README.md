@@ -19,6 +19,6 @@ And here, a [list of exercises](./Esercizi_1.pdf).
 
 | Data | Notebook | Link |
 |:-|:-|:-|
-|**[2024/05/10]**|*OT and Style Transfer*|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mathcoding/compopt/blob/master/notebooks/COT_Style_Transfer.ipynb)|
+|**[2024/05/10]**|*OT and Style Transfer*|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mathcoding/CompOT/blob/main/notebooks/COT_Style_Transfer.ipynb)|
 
 
