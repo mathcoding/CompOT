@@ -15,4 +15,10 @@ For a list of project proposal for the final exam, please, read this [list of pr
 
 And here, a [list of exercises](./Esercizi_1.pdf).
 
+## Python notebook
+
+| Data | Notebook | Link |
+|:-|:-|:-|
+|**[2024/05/10]**|*OT and Style Transfer*|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mathcoding/compopt/blob/master/notebooks/COT_Style_Transfer.ipynb)|
+
 
