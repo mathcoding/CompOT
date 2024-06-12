@@ -19,7 +19,14 @@ And here, a [list of exercises](./Esercizi_1.pdf).
 
 | Data | Notebook | Link |
 |:-|:-|:-|
+|**[2024/06/12]**|*Sinkhorn's algorithm*|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mathcoding/CompOT/blob/main/notebooks/COT_Sinkhorn.ipynb)|
 |**[2024/06/05]**|*OT and Style Transfer*|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mathcoding/CompOT/blob/main/notebooks/COT_Style_Transfer.ipynb)|
+
+## Lab exercise
+
+| Data | Solution | Link |
+|:-|:-|:-|
+|**[2024/06/12]**|*Sinkhorn's algorithm*|[col_transfer.py](https://github.com/mathcoding/CompOT/blob/main/scripts/sinkhorn_lab.py)|
 
 
 ## Solutions
