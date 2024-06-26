@@ -6,6 +6,10 @@ This webpage will be update during the course.
 
 The tentative syllabus is available as [syllabus.pdf](./syllabus.pdf), with an updated list of [references](./References.pdf).
 
+
+**For the 3rd Lecture**: Slides for the introduction to Wasserstein Barycenters: [slides.pdf](./Gaoling2022.pdf).
+
+
 ## Project proposals
 
 For a list of project proposal for the final exam, please, read this [list of proposal](./Proposte.pdf).
@@ -15,7 +19,6 @@ For a list of project proposal for the final exam, please, read this [list of pr
 
 And here, a [list of exercises](./Esercizi_1.pdf).
 
-Slides for the introduction to Wasserstein Barycenters: [slides.pdf](./Gaoling2022.pdf).
 ## Python notebook
 
 | Data | Notebook | Link |
