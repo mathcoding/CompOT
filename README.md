@@ -15,6 +15,7 @@ For a list of project proposal for the final exam, please, read this [list of pr
 
 And here, a [list of exercises](./Esercizi_1.pdf).
 
+Slides for the introduction to Wasserstein Barycenters: [slides.pdf](./Gaoling2022.pdf).
 ## Python notebook
 
 | Data | Notebook | Link |
